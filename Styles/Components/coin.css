@@ -1,0 +1,9 @@
+.coin {
+    background-color: var(--background-color);
+    color: var(--color-font);
+    padding: var(--gap-small);
+    border:  0.3rem solid var(--color-font);
+    width: 20rem;
+    cursor: pointer;
+    font: inherit;
+}
